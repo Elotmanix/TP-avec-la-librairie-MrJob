@@ -34,4 +34,4 @@ For example, in a French word dictionary, the word `abracadabrant` (13 letters) 
 The output should display such words for each of the 6 vowels. The algorithm should disregard the presence of uppercase letters in the words.
 
 ### Word Dictionaries
-For intensive testing, you can use the English-language file `words_alpha`.
+For intensive testing, you can use the English-language file `Dictionnaire.txt`.
